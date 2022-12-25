@@ -1,0 +1,15 @@
+C:\GeekBrains\TaskAfter3Month\bin\Debug\net6.0\TaskAfter3Month.exe
+C:\GeekBrains\TaskAfter3Month\bin\Debug\net6.0\TaskAfter3Month.deps.json
+C:\GeekBrains\TaskAfter3Month\bin\Debug\net6.0\TaskAfter3Month.runtimeconfig.json
+C:\GeekBrains\TaskAfter3Month\bin\Debug\net6.0\TaskAfter3Month.dll
+C:\GeekBrains\TaskAfter3Month\bin\Debug\net6.0\TaskAfter3Month.pdb
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\TaskAfter3Month.csproj.AssemblyReference.cache
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\TaskAfter3Month.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\TaskAfter3Month.AssemblyInfoInputs.cache
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\TaskAfter3Month.AssemblyInfo.cs
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\TaskAfter3Month.csproj.CoreCompileInputs.cache
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\TaskAfter3Month.dll
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\refint\TaskAfter3Month.dll
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\TaskAfter3Month.pdb
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\TaskAfter3Month.genruntimeconfig.cache
+C:\GeekBrains\TaskAfter3Month\obj\Debug\net6.0\ref\TaskAfter3Month.dll
